@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"IMESupport",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"LESS",
+		"LiveScript",
+		"Pretty JSON",
+		"Sass"
+	]
+}
