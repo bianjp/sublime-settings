@@ -1,0 +1,13 @@
+{
+  // Which file extensions go with this file type?
+  "extensions":
+  [
+    "markdown",
+    "md",
+    "mdown",
+    "mdwn",
+    "mmd"
+  ],
+
+  "trim_trailing_white_space_on_save": false
+}
