@@ -1,8 +1,8 @@
 {
 	"ignored_packages":
 	[
-		"CSS",
-		"Vintage"
+		"Vintage",
+		"CSS"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,

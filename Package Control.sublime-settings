@@ -1,15 +1,22 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"CSS3",
+		"DocBlockr",
 		"Emmet",
+		"GitGutter",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
 		"LESS",
 		"LiveScript",
+		"Markdown Preview",
+		"Package Control",
 		"Pretty JSON",
 		"Sass"
 	]
