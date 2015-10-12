@@ -1,8 +1,19 @@
 {
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"tmp",
+		"node_modules",
+		"bower_components"
+	],
 	"ignored_packages":
 	[
-		"Vintage",
-		"CSS"
+		"CSS",
+		"Markdown",
+		"Vintage"
 	],
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,

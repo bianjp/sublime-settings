@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -14,6 +15,7 @@
 		"Emmet",
 		"GitGutter",
 		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
 		"LESS",
@@ -21,7 +23,6 @@
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
-		"Sass",
-		"Xdebug Client"
+		"Sass"
 	]
 }
