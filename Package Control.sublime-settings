@@ -18,11 +18,13 @@
 		"HTML-CSS-JS Prettify",
 		"Jade",
 		"JavaScript & NodeJS Snippets",
+		"jQuery",
 		"LESS",
 		"LiveScript",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
-		"Sass"
+		"Sass",
+		"TodoReview"
 	]
 }

@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -16,6 +17,17 @@
 		"Vintage"
 	],
 	"tab_size": 2,
+	"todoreview":
+	{
+		"exclude_folders":
+		[
+			"*.git*",
+			"*bower_components*",
+			"*node_modules*",
+			"*ueditor*",
+			"*echarts*"
+		]
+	},
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
