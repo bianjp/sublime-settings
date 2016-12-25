@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
@@ -14,12 +13,7 @@
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
-		"Handlebars",
 		"HTML-CSS-JS Prettify",
-		"Jade",
-		"JavaScript & NodeJS Snippets",
-		"Javascript Beautify",
-		"LESS",
 		"LiveScript",
 		"Markdown Preview",
 		"Package Control",
