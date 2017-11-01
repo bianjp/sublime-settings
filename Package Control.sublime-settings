@@ -8,20 +8,17 @@
 		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
-		"CSS3",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"Kotlin",
 		"LiveScript",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
 		"Sass",
-		"SqlBeautifier",
-		"SublimeLinter",
-		"SublimeLinter-rubocop",
 		"Text Pastry"
 	]
 }
