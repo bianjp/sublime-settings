@@ -24,6 +24,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Emmet",
+		"PyV8",
 		"Vintage"
 	],
 	"shift_tab_unindent": true,

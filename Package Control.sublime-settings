@@ -8,23 +8,22 @@
 		"AlignTab",
 		"Asciidoctor",
 		"BracketHighlighter",
-		"Codecs33",
-		"ConvertToUTF8",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"EditorConfig",
-		"Emmet",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"INI",
 		"Kotlin",
 		"LiveScript",
 		"MarkdownPreview",
+		"nginx",
 		"Package Control",
 		"Pad",
 		"Pretty JSON",
 		"Sass",
 		"SqlBeautifier",
-		"Text Pastry"
+		"Text Pastry",
+		"Trimmer"
 	]
 }
