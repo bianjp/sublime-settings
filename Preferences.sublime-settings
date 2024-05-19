@@ -6,6 +6,7 @@
 		"Gradle",
 		"programatically"
 	],
+	"caret_style": "smooth",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"fallback_encoding": "GB2312",
 	"folder_exclude_patterns":
@@ -25,9 +26,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Emmet",
-		"PyV8",
-		"Vintage"
+		"Vintage",
 	],
 	"shift_tab_unindent": true,
 	"show_encoding": true,
@@ -36,5 +35,5 @@
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"update_check": false
+	"update_check": true
 }

@@ -1,6 +1,7 @@
 [
   { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
   { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+  { "keys": ["ctrl+alt+j"], "command": "pretty_json"},
   { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
   { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" }
 ]

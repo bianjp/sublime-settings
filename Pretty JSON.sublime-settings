@@ -1,0 +1,9 @@
+{
+  "indent": 2,
+  "ensure_ascii": false,
+  "keep_arrays_single_line": true,
+  "pretty_on_save": false,
+  "validate_on_save": false,
+  "brace_newline": false,
+  "bracket_newline": false
+}
